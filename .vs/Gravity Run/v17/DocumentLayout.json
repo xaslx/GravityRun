@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\Desktop\\\u0412\u0423\u0417\\1\u043A\u0443\u0440\u0441\\2\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\c#\\Gravity Run\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4EAAF8-2CF9-4D9B-B994-31958D805DD0}|Gravity Run\\Gravity Run.csproj|c:\\users\\\u043C\u0430\u043A\u0441\u0438\u043C\\desktop\\\u0432\u0443\u0437\\1\u043A\u0443\u0440\u0441\\2\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\c#\\gravity run\\gravity run\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B4EAAF8-2CF9-4D9B-B994-31958D805DD0}|Gravity Run\\Gravity Run.csproj|solutionrelative:gravity run\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4EAAF8-2CF9-4D9B-B994-31958D805DD0}|Gravity Run\\Gravity Run.csproj|c:\\users\\\u043C\u0430\u043A\u0441\u0438\u043C\\desktop\\\u0432\u0443\u0437\\1\u043A\u0443\u0440\u0441\\2\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\c#\\gravity run\\gravity run\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B4EAAF8-2CF9-4D9B-B994-31958D805DD0}|Gravity Run\\Gravity Run.csproj|solutionrelative:gravity run\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4EAAF8-2CF9-4D9B-B994-31958D805DD0}|Gravity Run\\Gravity Run.csproj|C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\Desktop\\\u0412\u0423\u0417\\1\u043A\u0443\u0440\u0441\\2\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\c#\\Gravity Run\\gravity run\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B4EAAF8-2CF9-4D9B-B994-31958D805DD0}|Gravity Run\\Gravity Run.csproj|solutionrelative:gravity run\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4EAAF8-2CF9-4D9B-B994-31958D805DD0}|Gravity Run\\Gravity Run.csproj|C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\Desktop\\\u0412\u0423\u0417\\1\u043A\u0443\u0440\u0441\\2\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\c#\\Gravity Run\\gravity run\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B4EAAF8-2CF9-4D9B-B994-31958D805DD0}|Gravity Run\\Gravity Run.csproj|solutionrelative:gravity run\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\Desktop\\\u0412\u0423\u0417\\1\u043A\u0443\u0440\u0441\\2\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\c#\\Gravity Run\\Gravity Run\\Form2.cs",
+              "RelativeDocumentMoniker": "Gravity Run\\Form2.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\Desktop\\\u0412\u0423\u0417\\1\u043A\u0443\u0440\u0441\\2\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\c#\\Gravity Run\\Gravity Run\\Form2.cs",
+              "RelativeToolTip": "Gravity Run\\Form2.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAAAKQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T16:46:19.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\Desktop\\\u0412\u0423\u0417\\1\u043A\u0443\u0440\u0441\\2\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\c#\\Gravity Run\\Gravity Run\\Form4.cs",
+              "RelativeDocumentMoniker": "Gravity Run\\Form4.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\Desktop\\\u0412\u0423\u0417\\1\u043A\u0443\u0440\u0441\\2\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\c#\\Gravity Run\\Gravity Run\\Form4.cs",
+              "RelativeToolTip": "Gravity Run\\Form4.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAcwFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T16:46:17.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\Desktop\\\u0412\u0423\u0417\\1\u043A\u0443\u0440\u0441\\2\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\c#\\Gravity Run\\Gravity Run\\Form4.cs",
+              "RelativeDocumentMoniker": "Gravity Run\\Form4.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\Desktop\\Gravity Run\\Gravity Run\\Form4.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Gravity Run\\Gravity Run\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T16:46:15.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\Desktop\\\u0412\u0423\u0417\\1\u043A\u0443\u0440\u0441\\2\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\c#\\Gravity Run\\Gravity Run\\Form2.cs",
+              "RelativeDocumentMoniker": "Gravity Run\\Form2.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\Desktop\\Gravity Run\\Gravity Run\\Form2.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Gravity Run\\Gravity Run\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T16:46:10.216Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+C:\Users\Максим\Desktop\ВУЗ\1курс\2семестр\c#\Gravity Run\Gravity Run\bin\Debug\net8.0-windows\Gravity Run.exe
+C:\Users\Максим\Desktop\ВУЗ\1курс\2семестр\c#\Gravity Run\Gravity Run\bin\Debug\net8.0-windows\Gravity Run.deps.json
+C:\Users\Максим\Desktop\ВУЗ\1курс\2семестр\c#\Gravity Run\Gravity Run\bin\Debug\net8.0-windows\Gravity Run.runtimeconfig.json
+C:\Users\Максим\Desktop\ВУЗ\1курс\2семестр\c#\Gravity Run\Gravity Run\bin\Debug\net8.0-windows\Gravity Run.dll
+C:\Users\Максим\Desktop\ВУЗ\1курс\2семестр\c#\Gravity Run\Gravity Run\bin\Debug\net8.0-windows\Gravity Run.pdb
+C:\Users\Максим\Desktop\ВУЗ\1курс\2семестр\c#\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\Gravity_Run.Form1.resources
+C:\Users\Максим\Desktop\ВУЗ\1курс\2семестр\c#\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\Gravity_Run.Properties.Resources.resources
+C:\Users\Максим\Desktop\ВУЗ\1курс\2семестр\c#\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\Gravity Run.csproj.GenerateResource.cache
+C:\Users\Максим\Desktop\ВУЗ\1курс\2семестр\c#\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\Gravity Run.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\Desktop\ВУЗ\1курс\2семестр\c#\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\Gravity Run.AssemblyInfoInputs.cache
+C:\Users\Максим\Desktop\ВУЗ\1курс\2семестр\c#\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\Gravity Run.AssemblyInfo.cs
+C:\Users\Максим\Desktop\ВУЗ\1курс\2семестр\c#\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\Gravity Run.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\ВУЗ\1курс\2семестр\c#\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\Gravity Run.dll
+C:\Users\Максим\Desktop\ВУЗ\1курс\2семестр\c#\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\refint\Gravity Run.dll
+C:\Users\Максим\Desktop\ВУЗ\1курс\2семестр\c#\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\Gravity Run.pdb
+C:\Users\Максим\Desktop\ВУЗ\1курс\2семестр\c#\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\Gravity Run.genruntimeconfig.cache
+C:\Users\Максим\Desktop\ВУЗ\1курс\2семестр\c#\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\ref\Gravity Run.dll
+C:\Users\Максим\Desktop\ВУЗ\1курс\2семестр\c#\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\Gravity_Run.Form2.resources
+C:\Users\Максим\Desktop\ВУЗ\1курс\2семестр\c#\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\Gravity_Run.Form3.resources
+C:\Users\Максим\Desktop\ВУЗ\1курс\2семестр\c#\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\Gravity_Run.Form4.resources
+C:\Users\Максим\Desktop\ВУЗ\1курс\2семестр\c#\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\Gravity_Run.Form5.resources
+C:\Users\Максим\Desktop\ВУЗ\1курс\2семестр\c#\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\Gravity_Run.Form6.resources
+C:\Users\Максим\Desktop\GR\Gravity Run\Gravity Run\bin\Debug\net8.0-windows\Gravity Run.exe
+C:\Users\Максим\Desktop\GR\Gravity Run\Gravity Run\bin\Debug\net8.0-windows\Gravity Run.deps.json
+C:\Users\Максим\Desktop\GR\Gravity Run\Gravity Run\bin\Debug\net8.0-windows\Gravity Run.runtimeconfig.json
+C:\Users\Максим\Desktop\GR\Gravity Run\Gravity Run\bin\Debug\net8.0-windows\Gravity Run.dll
+C:\Users\Максим\Desktop\GR\Gravity Run\Gravity Run\bin\Debug\net8.0-windows\Gravity Run.pdb
+C:\Users\Максим\Desktop\GR\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\Gravity_Run.Form1.resources
+C:\Users\Максим\Desktop\GR\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\Gravity_Run.Form2.resources
+C:\Users\Максим\Desktop\GR\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\Gravity_Run.Form3.resources
+C:\Users\Максим\Desktop\GR\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\Gravity_Run.Form4.resources
+C:\Users\Максим\Desktop\GR\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\Gravity_Run.Form5.resources
+C:\Users\Максим\Desktop\GR\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\Gravity_Run.Form6.resources
+C:\Users\Максим\Desktop\GR\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\Gravity_Run.Form7.resources
+C:\Users\Максим\Desktop\GR\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\Gravity_Run.Properties.Resources.resources
+C:\Users\Максим\Desktop\GR\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\Gravity Run.csproj.GenerateResource.cache
+C:\Users\Максим\Desktop\GR\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\Gravity Run.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\Desktop\GR\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\Gravity Run.AssemblyInfoInputs.cache
+C:\Users\Максим\Desktop\GR\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\Gravity Run.AssemblyInfo.cs
+C:\Users\Максим\Desktop\GR\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\Gravity Run.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\GR\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\Gravity Run.dll
+C:\Users\Максим\Desktop\GR\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\refint\Gravity Run.dll
+C:\Users\Максим\Desktop\GR\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\Gravity Run.pdb
+C:\Users\Максим\Desktop\GR\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\Gravity Run.genruntimeconfig.cache
+C:\Users\Максим\Desktop\GR\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\ref\Gravity Run.dll
+C:\Users\Максим\Desktop\GR\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\Gravity_Run.Form8.resources
+C:\Users\Максим\Desktop\ВУЗ\1курс\2семестр\c#\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\Gravity_Run.Form7.resources
+C:\Users\Максим\Desktop\ВУЗ\1курс\2семестр\c#\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\Gravity_Run.Form8.resources
+C:\Users\Максим\Desktop\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\Gravity_Run.Form1.resources
+C:\Users\Максим\Desktop\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\Gravity_Run.Form2.resources
+C:\Users\Максим\Desktop\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\Gravity_Run.Form3.resources
+C:\Users\Максим\Desktop\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\Gravity_Run.Form4.resources
+C:\Users\Максим\Desktop\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\Gravity_Run.Form5.resources
+C:\Users\Максим\Desktop\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\Gravity_Run.Form6.resources
+C:\Users\Максим\Desktop\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\Gravity_Run.Form7.resources
+C:\Users\Максим\Desktop\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\Gravity_Run.Form8.resources
+C:\Users\Максим\Desktop\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\Gravity Run.csproj.GenerateResource.cache
+C:\Users\Максим\Desktop\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\Gravity Run.dll
+C:\Users\Максим\Desktop\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\refint\Gravity Run.dll
+C:\Users\Максим\Desktop\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\Gravity Run.pdb
+C:\Users\Максим\Desktop\Gravity Run\Gravity Run\bin\Debug\net8.0-windows\Gravity Run.exe
+C:\Users\Максим\Desktop\Gravity Run\Gravity Run\bin\Debug\net8.0-windows\Gravity Run.deps.json
+C:\Users\Максим\Desktop\Gravity Run\Gravity Run\bin\Debug\net8.0-windows\Gravity Run.runtimeconfig.json
+C:\Users\Максим\Desktop\Gravity Run\Gravity Run\bin\Debug\net8.0-windows\Gravity Run.dll
+C:\Users\Максим\Desktop\Gravity Run\Gravity Run\bin\Debug\net8.0-windows\Gravity Run.pdb
+C:\Users\Максим\Desktop\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\Gravity_Run.Properties.Resources.resources
+C:\Users\Максим\Desktop\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\Gravity Run.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\Desktop\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\Gravity Run.AssemblyInfoInputs.cache
+C:\Users\Максим\Desktop\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\Gravity Run.AssemblyInfo.cs
+C:\Users\Максим\Desktop\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\Gravity Run.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\Gravity Run.genruntimeconfig.cache
+C:\Users\Максим\Desktop\Gravity Run\Gravity Run\obj\Debug\net8.0-windows\ref\Gravity Run.dll
